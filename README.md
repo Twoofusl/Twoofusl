@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 自定义主题：&theme=vision-friendly-dark
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Twoofusl=anuraghazra&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twoofusl&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
