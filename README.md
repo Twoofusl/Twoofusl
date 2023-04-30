@@ -7,7 +7,7 @@
 - 自定义主题：&theme=vision-friendly-dark
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twoofusl&hide=prs&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twoofusl&count_private=true&hide=prs&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
  - 热门语言
