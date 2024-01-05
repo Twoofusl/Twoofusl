@@ -4,8 +4,8 @@
 - 显示图标：&show_icons=true
 - 自定义主题：&theme=vision-friendly-dark
 -->
-
-![Twoofusl's GitHub stats 请巫女小姐务必嫁给我](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby)
+<p align="center">请巫女小姐务必嫁给我</p>
+![Twoofusl's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby)
 
 <!--
 <p align="center">
