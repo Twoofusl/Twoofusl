@@ -6,8 +6,12 @@
 -->
 
 ![Twoofusl's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=twoofusl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoofusl&count_private=true&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/Twoofusl">  <!--热门语言，可修改-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twoofusl&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
+  </a>
+</p>
 
 <!--
  - 热门语言
