@@ -9,8 +9,8 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/Twoofusl">  <!--热门语言，可修改-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twoofusl&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
+  <a href="https://github.com/Twoofusl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twoofusl&layout=compact&langs_count=5&theme=algolia"/>
   </a>
 </p>
 -->
