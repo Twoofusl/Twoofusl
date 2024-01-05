@@ -6,8 +6,6 @@
 -->
 <p align="center">请巫女小姐务必嫁给我</p>
 
-<p align="center">![Twoofusl's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby)</p>
-
 <p align="center">
   <a href="https://github.com/Twoofusl">
     <img src="https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby"/>
