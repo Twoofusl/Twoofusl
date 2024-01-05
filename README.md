@@ -7,9 +7,7 @@
 - 自定义主题：&theme=vision-friendly-dark
 -->
 
-![Twoofusl's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&hide=prs&show_icons=true&theme=great-gatsby)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Twoofusl's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby)
 
 <!--
  - 热门语言
