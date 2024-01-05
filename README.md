@@ -8,13 +8,11 @@
 
 <p align="center">![Twoofusl's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby)</p>
 
-<!--
 <p align="center">
   <a href="https://github.com/Twoofusl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twoofusl&layout=compact&langs_count=5&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby"/>
   </a>
 </p>
--->
 
 <!--
  - 热门语言
