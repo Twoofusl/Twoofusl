@@ -13,9 +13,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/Twoofusl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoofusl&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twoofusl&layout=compact"/>
   </a>
 </p>
-<--
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoofusl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
