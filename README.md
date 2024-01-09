@@ -11,8 +11,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=twoofusl&count_private=true&show_icons=true&theme=great-gatsby"/>
   </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoofusl&layout=compact)
-<!--
- - 热门语言
+<p align="center">
+  <a href="https://github.com/Twoofusl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoofusl&layout=compact"/>
+  </a>
+</p>
+<--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoofusl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
