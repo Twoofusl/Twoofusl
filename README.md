@@ -4,7 +4,7 @@
 - 显示图标：&show_icons=true
 - 自定义主题：&theme=vision-friendly-dark
 -->
-<p align="center">请巫女小姐务必嫁给我</p>
+<p align="center">我一直在希望的田野上奔跑，虽然也偶尔被失望绊倒。</p>
 
 <!--
 <p align="center">
